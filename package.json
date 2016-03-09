@@ -1,0 +1,8 @@
+{
+    "name": "get-current-file-path",
+    "title": "Get Current File Path",
+    "description": "Utility for getting path of opened file with possibility to copy it. Use 'Ctrl+`' to get File Path",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Khilchuk Dima hil400k@gmail.com"
+}
