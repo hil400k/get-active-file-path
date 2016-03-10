@@ -1,8 +1,8 @@
 {
-    "name": "get-current-file-path",
+    "name": "get-active-file-path",
     "title": "Get Current File Path",
     "description": "Utility for getting path of opened file with possibility to copy it. Use 'Ctrl+`' to get File Path",
-    "homepage": "",
+    "homepage": "https://github.com/hil400k/get-active-file-path",
     "version": "1.0.0",
     "author": "Khilchuk Dima hil400k@gmail.com"
 }
